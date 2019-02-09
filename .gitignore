@@ -6,6 +6,3 @@
 
 # 過濾 Pipenv 的虛擬環境
 .venv/
-
-# 過濾 output
-output/*
