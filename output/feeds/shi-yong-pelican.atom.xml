@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>koko's note - 使用 Pelican</title><link href="/" rel="alternate"></link><link href="/feeds/shi-yong-pelican.atom.xml" rel="self"></link><id>/</id><updated>2019-01-13T12:40:00+08:00</updated><entry><title>使用 Pelican 製作我的網誌</title><link href="/mac-using-pelican-build-static-website.html" rel="alternate"></link><published>2019-01-13T12:40:00+08:00</published><updated>2019-01-13T12:40:00+08:00</updated><author><name>kokokuo</name></author><id>tag:None,2019-01-13:/mac-using-pelican-build-static-website.html</id><summary type="html">&lt;p&gt;這是一篇分享如何 Mac 上使用 Python 的靜態網站產生器套件 Pelican 製作個人網誌的介紹&lt;/p&gt;</summary><content type="html">&lt;h1&gt;一、使用 Pelican 架設簡單的靜態網站&lt;/h1&gt;
+&lt;p&gt;目前靜態網站產生器的選擇上非常多樣化，參考 &lt;a href="https://www.staticgen.com/"&gt;StaticGen&lt;/a&gt; 可以看到許多使用不同程式語言開發的產生器，並且每個產生器都有特別的特色，最常見的有: &lt;strong&gt;Hexo&lt;/strong&gt;, &lt;strong&gt;Hugo&lt;/strong&gt;, &lt;strong&gt;Hexo&lt;/strong&gt;, &lt;strong&gt;Pelican&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;確認有無 Python 安裝在電腦中:
+其中目前最主要的兩種版本:&lt;/li&gt;
+&lt;li&gt;Python 2.7.x&lt;/li&gt;
+&lt;li&gt;Python 3.6.x&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Python"></category><category term="Pelican"></category></entry></feed>
