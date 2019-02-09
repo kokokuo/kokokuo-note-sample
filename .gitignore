@@ -1,0 +1,11 @@
+# 過濾掉 Mac 的 DS_Store
+.DS_Store
+
+# 過濾掉 VSCode 的設定檔案
+.vscode/*
+
+# 過濾 Pipenv 的虛擬環境
+.venv/
+
+# 過濾 output
+output/*
