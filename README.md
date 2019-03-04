@@ -1,2 +1,2 @@
 # kokokuo.github.io
-This is my personal technical blog powered by pelican (Python plugin) static website generator
+此為個人的介紹與作品集等整理網站，透過 Github Page 來建置。
